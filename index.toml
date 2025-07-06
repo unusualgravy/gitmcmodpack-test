@@ -1,0 +1,13 @@
+hash-format = "sha256"
+
+[[files]]
+file = "com.unascribed.unsup.json"
+hash = "2c37d6d2f9c56e09ee1f9650a252a2dd943a77be2d3445b9e3a0e060e73f8598"
+
+[[files]]
+file = "packwiz-installer-bootstrap.jar"
+hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+
+[[files]]
+file = "unsup-1.2-snap.156+0def2f81c9.jar"
+hash = "8da25af9ae98f4c9c245031a1a512b9c5f89f43c85edbed85e4c7395754fc60b"

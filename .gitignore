@@ -1,0 +1,43 @@
+# Exclude exported CurseForge zip files
+#*.zip
+# Exclude exported Modrinth modpacks
+#*.mrpack
+
+*
+!*/
+
+!.gitignore
+!.gitattributes
+!mods/**
+!config/**
+!resourcepacks/**
+!coremods/**
+!customnpcs/**
+!defaultconfigs/**
+!emotes/**
+!global_packs/**
+!keybinding presets/**
+!kubejs/**
+!quests_structures/**
+!schematics/**
+!shaderpacks/**
+!keybind_bundles/**
+!icon.png
+!keybind_bundles.json
+!pack.toml
+!unsup.jar
+!unsup.ini
+!index.toml
+!com.unascribed.unsup.json
+packwiz-installer-bootstrap.jar
+
+saves/*
+mods/.connector/*
+config/asyncparticles/asyncparticles-mixin.properties
+config/oculus.properties
+config/fabric/indigo-renderer.properties
+config/illuminations.properties
+config/packetfixer.properties
+icon.png
+config/skinrestorer/mojang_profile_cache.json
+config/spark/activity.json

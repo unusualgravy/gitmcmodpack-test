@@ -1,0 +1,13 @@
+name = "gitmcmodpack-test"
+author = "unusu"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "09ce7d73dc9a57a0a5c1d488ae67c77cf22a04f7f91b87e9c9d08ed9dbf99082"
+
+[versions]
+forge = "47.4.0"
+minecraft = "1.20.1"
