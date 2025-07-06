@@ -8,7 +8,7 @@
 
 !.gitignore
 !.gitattributes
-!mods/**
+!mods/.index/*
 !config/**
 !resourcepacks/**
 !coremods/**
@@ -32,7 +32,6 @@
 packwiz-installer-bootstrap.jar
 
 saves/*
-mods/.connector/*
 config/asyncparticles/asyncparticles-mixin.properties
 config/oculus.properties
 config/fabric/indigo-renderer.properties

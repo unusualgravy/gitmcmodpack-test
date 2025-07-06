@@ -1,13 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
-file = "com.unascribed.unsup.json"
-hash = "2c37d6d2f9c56e09ee1f9650a252a2dd943a77be2d3445b9e3a0e060e73f8598"
+file = ".gitattributes"
+hash = "febe0c410c65440b8ac8b508d46b31c4ba952d110cee0931d45681e37523cc16"
 
 [[files]]
-file = "packwiz-installer-bootstrap.jar"
-hash = "a8fbb24dc604278e97f4688e82d3d91a318b98efc08d5dbfcbcbcab6443d116c"
+file = ".gitignore"
+hash = "b415c8fcb2abc0e83d275bace4627816ee3944039daa932f9501e026b0de8d0c"
 
 [[files]]
-file = "unsup-1.2-snap.156+0def2f81c9.jar"
-hash = "8da25af9ae98f4c9c245031a1a512b9c5f89f43c85edbed85e4c7395754fc60b"
+file = "mods/.index/cloth-config.pw.toml"
+hash = "82cea723a9801f49180971278338e16c753615c0c5e6e367bb7a5df1663f919d"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config-11.1.136-forge.jar"
+hash = "1e895e85cf5b1e1905ef3178ec155c8badfe22a1577b92c09143a5aa1f4ce0f2"

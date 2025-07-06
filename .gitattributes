@@ -1,8 +1,11 @@
+
 *.jar filter=lfs diff=lfs merge=lfs -text
 *.disabled filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+
 shaderpacks/** filter=lfs diff=lfs merge=lfs -text
 resourcepacks/** filter=lfs diff=lfs merge=lfs -text
 resourcepacks/.index/* filter= diff= merge= text
 config/fancymenu/assets/** filter=lfs diff=lfs merge=lfs -text
 mods/.index/* filter= diff= merge= -text
+*.toml filter= diff= merge= -text
